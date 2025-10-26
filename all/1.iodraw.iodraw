@@ -116,22 +116,22 @@
           <mxGeometry x="355" y="340" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-27" value="部门管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="60" height="30" as="geometry" />
+          <mxGeometry x="10" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="450" y="415" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-29" value="角色与权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="60" height="30" as="geometry" />
+          <mxGeometry x="440" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-32" value="员工管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="90" y="230" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="300" width="60" height="30" as="geometry" />
