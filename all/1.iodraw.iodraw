@@ -101,10 +101,10 @@
           <mxGeometry x="40" y="320" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-22" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="250" y="640" width="20" height="80" as="geometry" />
+          <mxGeometry x="150" y="450" width="20" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="zgPaXX5tHTSgJSR8Ytb5-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="110" y="460" width="20" height="80" as="geometry" />
+        <mxCell id="zgPaXX5tHTSgJSR8Ytb5-23" value="异&lt;div&gt;常&lt;/div&gt;&lt;div&gt;检&lt;/div&gt;&lt;div&gt;测&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="355" y="320" width="20" height="80" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-24" value="手&lt;div&gt;动&lt;/div&gt;&lt;div&gt;排&lt;/div&gt;&lt;div&gt;班&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="170" y="320" width="20" height="80" as="geometry" />
