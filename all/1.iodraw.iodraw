@@ -131,6 +131,12 @@
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-48" value="个&lt;div&gt;人&lt;/div&gt;&lt;div&gt;工&lt;/div&gt;&lt;div&gt;时&lt;/div&gt;&lt;div&gt;统&lt;/div&gt;&lt;div&gt;计&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="640" y="250" width="20" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="zgPaXX5tHTSgJSR8Ytb5-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="400" as="sourcePoint" />
+            <mxPoint x="610" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
