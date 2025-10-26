@@ -8,7 +8,7 @@
           <mxGeometry x="375" y="80" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-2" value="系统管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="185" width="80" height="30" as="geometry" />
+          <mxGeometry x="80" y="200" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-3" value="班次设置模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="185" width="80" height="30" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry x="610" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-29" value="角色与权限管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="230" width="60" height="30" as="geometry" />
+          <mxGeometry x="180" y="310" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-30" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="500" width="60" height="30" as="geometry" />
