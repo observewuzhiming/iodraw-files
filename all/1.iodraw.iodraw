@@ -88,7 +88,7 @@
           <mxGeometry x="750" y="270" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-23" value="结&lt;div&gt;算&lt;/div&gt;&lt;div&gt;操&lt;/div&gt;&lt;div&gt;作&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="444.5" y="270" width="20" height="90" as="geometry" />
+          <mxGeometry x="430" y="270" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-24" value="权&lt;div&gt;限&lt;/div&gt;&lt;div&gt;配&lt;/div&gt;&lt;div&gt;置&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="200" y="270" width="20" height="90" as="geometry" />
@@ -97,7 +97,7 @@
           <mxGeometry x="170" y="270" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-26" value="收&lt;div&gt;支&lt;/div&gt;&lt;div&gt;明&lt;/div&gt;&lt;div&gt;细&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="404" y="280" width="20" height="90" as="geometry" />
+          <mxGeometry x="404" y="270" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-40" value="帐&lt;div&gt;本&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="230" y="270" width="20" height="90" as="geometry" />
@@ -291,7 +291,7 @@
         </mxCell>
         <mxCell id="rPyYl_Jkf1i-4agELUG1-27" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="zgPaXX5tHTSgJSR8Ytb5-26">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="430" y="240" as="sourcePoint" />
+            <mxPoint x="420" y="240" as="sourcePoint" />
             <mxPoint x="420" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
