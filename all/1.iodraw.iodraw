@@ -17,7 +17,7 @@
           <mxGeometry x="280" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-6" value="分摊与结算模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="400" y="190" width="80" height="30" as="geometry" />
+          <mxGeometry x="390" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-7" value="数据统计与可视化模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="190" width="80" height="30" as="geometry" />
@@ -334,7 +334,7 @@
             <mxPoint x="280" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rPyYl_Jkf1i-4agELUG1-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="rPyYl_Jkf1i-4agELUG1-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="zgPaXX5tHTSgJSR8Ytb5-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="620" as="sourcePoint" />
             <mxPoint x="470" y="240" as="targetPoint" />
