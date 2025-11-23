@@ -191,7 +191,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="rPyYl_Jkf1i-4agELUG1-2" value="消息通知模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="200" width="80" height="30" as="geometry" />
+          <mxGeometry x="740" y="190" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
