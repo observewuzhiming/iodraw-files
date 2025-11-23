@@ -14,7 +14,7 @@
           <mxGeometry x="150" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-5" value="消费记录模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="270" y="190" width="80" height="30" as="geometry" />
+          <mxGeometry x="280" y="190" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-6" value="分摊与结算模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="460" y="185" width="80" height="30" as="geometry" />
@@ -24,12 +24,6 @@
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-8" value="消息通知模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="730" y="185" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="zgPaXX5tHTSgJSR8Ytb5-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="zgPaXX5tHTSgJSR8Ytb5-5" target="zgPaXX5tHTSgJSR8Ytb5-1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="520" y="340" as="sourcePoint" />
-            <mxPoint x="570" y="290" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="zgPaXX5tHTSgJSR8Ytb5-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -72,7 +66,7 @@
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-14" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="zgPaXX5tHTSgJSR8Ytb5-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="520" y="340" as="sourcePoint" />
-            <mxPoint x="340" y="160" as="targetPoint" />
+            <mxPoint x="310" y="160" as="targetPoint" />
             <Array as="points">
               <mxPoint x="70" y="160" />
             </Array>
