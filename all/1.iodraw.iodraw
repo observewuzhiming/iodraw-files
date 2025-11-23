@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-1" value="多人共享记账与分摊系统" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="303.5" y="80" width="141" height="40" as="geometry" />
+          <mxGeometry x="360" y="80" width="141" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-2" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="190" width="80" height="30" as="geometry" />
@@ -348,7 +348,7 @@
         </mxCell>
         <mxCell id="rPyYl_Jkf1i-4agELUG1-37" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="rPyYl_Jkf1i-4agELUG1-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="240" as="sourcePoint" />
+            <mxPoint x="770" y="240" as="sourcePoint" />
             <mxPoint x="290" y="580" as="targetPoint" />
           </mxGeometry>
         </mxCell>
