@@ -109,7 +109,7 @@
           <mxGeometry x="230" y="270" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-41" value="排&lt;div&gt;班&lt;/div&gt;&lt;div&gt;查&lt;/div&gt;&lt;div&gt;询&lt;/div&gt;&lt;div&gt;导&lt;/div&gt;&lt;div&gt;出&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="290" y="270" width="20" height="90" as="geometry" />
+          <mxGeometry x="283.5" y="270" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="zgPaXX5tHTSgJSR8Ytb5-42" value="请&lt;div&gt;假&lt;/div&gt;&lt;div&gt;换&lt;/div&gt;&lt;div&gt;班&lt;/div&gt;&lt;div&gt;申&lt;/div&gt;&lt;div&gt;请&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="460" y="270" width="20" height="90" as="geometry" />
@@ -180,7 +180,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="zgPaXX5tHTSgJSR8Ytb5-55" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="zgPaXX5tHTSgJSR8Ytb5-55" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1" target="zgPaXX5tHTSgJSR8Ytb5-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="240" y="240" as="sourcePoint" />
             <mxPoint x="270" y="270" as="targetPoint" />
