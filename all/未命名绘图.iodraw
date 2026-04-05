@@ -431,12 +431,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="SFTGAGjUr1pMnkklCrh-" name="第 2 页">
-    <mxGraphModel dx="318" dy="143" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="801" dy="361" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oJezCXFHaI2RmHBshxiH-1" value="多人共享记账与分摊系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1172" y="2319" width="141" height="40" as="geometry" />
+          <mxGeometry x="1173" y="2320" width="141" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-2" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="759" y="2428" width="80" height="30" as="geometry" />
@@ -830,7 +830,7 @@
         <mxCell id="oJezCXFHaI2RmHBshxiH-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oJezCXFHaI2RmHBshxiH-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1232" y="2508" as="sourcePoint" />
-            <mxPoint x="1243" y="2398" as="targetPoint" />
+            <mxPoint x="1244" y="2398" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-81" value="模&lt;div&gt;板&lt;/div&gt;&lt;div&gt;记&lt;/div&gt;&lt;div&gt;账&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
