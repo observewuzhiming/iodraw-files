@@ -418,6 +418,12 @@
             <mxPoint x="430" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="W0KdEIu053vAUCLH06mL-1" value="消&lt;div&gt;费&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="270" y="280" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="W0KdEIu053vAUCLH06mL-2" value="消&lt;div&gt;费&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="210" y="362" width="20" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
