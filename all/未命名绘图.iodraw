@@ -847,7 +847,7 @@
           <mxGeometry x="1054" y="2509" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-82" value="明&lt;div&gt;细&lt;/div&gt;&lt;div&gt;项&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1018" y="2556" width="20" height="90" as="geometry" />
+          <mxGeometry x="1023" y="2544" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-83" value="明&lt;div&gt;细&lt;/div&gt;&lt;div&gt;项&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;摊&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1122" y="2626" width="20" height="90" as="geometry" />
@@ -858,7 +858,7 @@
             <mxPoint x="1151" y="2479" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oJezCXFHaI2RmHBshxiH-87" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="oJezCXFHaI2RmHBshxiH-87" value="" style="endArrow=none;html=1;rounded=0;exitX=0.45;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oJezCXFHaI2RmHBshxiH-82">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1034" y="2481" as="sourcePoint" />
             <mxPoint x="1034" y="2511" as="targetPoint" />
