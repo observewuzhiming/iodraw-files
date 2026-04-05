@@ -442,7 +442,7 @@
           <mxGeometry x="759" y="2428" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-3" value="共享账本模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="982" y="2428" width="80" height="30" as="geometry" />
+          <mxGeometry x="883" y="2428" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-4" value="消费记录模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1112" y="2428" width="80" height="30" as="geometry" />
@@ -507,7 +507,7 @@
           <mxGeometry x="829" y="2508" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-14" value="帐&lt;div&gt;本&lt;/div&gt;&lt;div&gt;创&lt;/div&gt;&lt;div&gt;建&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="972" y="2508" width="20" height="90" as="geometry" />
+          <mxGeometry x="873" y="2508" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-15" value="注&lt;div&gt;册&lt;/div&gt;&lt;div&gt;登&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="749" y="2508" width="20" height="90" as="geometry" />
@@ -522,16 +522,16 @@
           <mxGeometry x="1262" y="2508" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-19" value="权&lt;div&gt;限&lt;/div&gt;&lt;div&gt;配&lt;/div&gt;&lt;div&gt;置&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1032" y="2508" width="20" height="90" as="geometry" />
+          <mxGeometry x="933" y="2508" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-20" value="成&lt;div&gt;员&lt;/div&gt;&lt;div&gt;邀&lt;/div&gt;&lt;div&gt;请&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1002" y="2508" width="20" height="90" as="geometry" />
+          <mxGeometry x="903" y="2508" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-21" value="收&lt;div&gt;支&lt;/div&gt;&lt;div&gt;明&lt;/div&gt;&lt;div&gt;细&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1236" y="2508" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-22" value="帐&lt;div&gt;本&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1062" y="2508" width="20" height="90" as="geometry" />
+          <mxGeometry x="963" y="2508" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-23" value="消&lt;div&gt;费&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1092" y="2508" width="20" height="90" as="geometry" />
@@ -583,41 +583,41 @@
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-34" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oJezCXFHaI2RmHBshxiH-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1192" y="2728" as="sourcePoint" />
-            <mxPoint x="1022" y="2478" as="targetPoint" />
+            <mxPoint x="1093" y="2728" as="sourcePoint" />
+            <mxPoint x="923" y="2478" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1072" y="2478" as="sourcePoint" />
-            <mxPoint x="1012" y="2508" as="targetPoint" />
+            <mxPoint x="973" y="2478" as="sourcePoint" />
+            <mxPoint x="913" y="2508" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1012" y="2478" />
+              <mxPoint x="913" y="2478" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-36" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="oJezCXFHaI2RmHBshxiH-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1042" y="2478" as="sourcePoint" />
-            <mxPoint x="1262" y="2698" as="targetPoint" />
+            <mxPoint x="943" y="2478" as="sourcePoint" />
+            <mxPoint x="1163" y="2698" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="982" y="2478" />
+              <mxPoint x="883" y="2478" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-37" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="oJezCXFHaI2RmHBshxiH-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1072" y="2478" as="sourcePoint" />
-            <mxPoint x="1102" y="2508" as="targetPoint" />
+            <mxPoint x="973" y="2478" as="sourcePoint" />
+            <mxPoint x="1003" y="2508" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1042" y="2478" />
+              <mxPoint x="943" y="2478" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-38" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="oJezCXFHaI2RmHBshxiH-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1072" y="2478" as="sourcePoint" />
-            <mxPoint x="1282" y="2718" as="targetPoint" />
+            <mxPoint x="973" y="2478" as="sourcePoint" />
+            <mxPoint x="1183" y="2718" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
