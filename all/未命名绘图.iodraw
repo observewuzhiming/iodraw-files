@@ -651,12 +651,6 @@
             <mxPoint x="1111" y="2478" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="oJezCXFHaI2RmHBshxiH-48" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1061" y="2478" as="sourcePoint" />
-            <mxPoint x="1151" y="2478" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-49" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" target="oJezCXFHaI2RmHBshxiH-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1008" y="2478" as="sourcePoint" />
@@ -857,6 +851,24 @@
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-83" value="明&lt;div&gt;细&lt;/div&gt;&lt;div&gt;项&lt;/div&gt;&lt;div&gt;分&lt;/div&gt;&lt;div&gt;摊&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1122" y="2626" width="20" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="oJezCXFHaI2RmHBshxiH-84" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="914" y="2667" as="sourcePoint" />
+            <mxPoint x="964" y="2617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJezCXFHaI2RmHBshxiH-85" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="924" y="2677" as="sourcePoint" />
+            <mxPoint x="974" y="2627" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oJezCXFHaI2RmHBshxiH-86" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="934" y="2687" as="sourcePoint" />
+            <mxPoint x="984" y="2637" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
