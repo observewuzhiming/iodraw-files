@@ -524,7 +524,7 @@
           <mxGeometry x="963" y="2508" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-23" value="消&lt;div&gt;费&lt;/div&gt;&lt;div&gt;录&lt;/div&gt;&lt;div&gt;入&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="999" y="2510" width="20" height="90" as="geometry" />
+          <mxGeometry x="997" y="2511" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-24" value="账&lt;div&gt;单&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1141" y="2508" width="20" height="90" as="geometry" />
