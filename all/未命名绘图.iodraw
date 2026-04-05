@@ -830,7 +830,7 @@
         <mxCell id="oJezCXFHaI2RmHBshxiH-80" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="oJezCXFHaI2RmHBshxiH-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1232" y="2508" as="sourcePoint" />
-            <mxPoint x="1262" y="2398" as="targetPoint" />
+            <mxPoint x="1243" y="2398" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-81" value="模&lt;div&gt;板&lt;/div&gt;&lt;div&gt;记&lt;/div&gt;&lt;div&gt;账&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
