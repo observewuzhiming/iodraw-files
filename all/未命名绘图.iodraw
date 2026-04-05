@@ -461,7 +461,7 @@
             <mxPoint x="1352" y="2578" as="sourcePoint" />
             <mxPoint x="1262" y="2398" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1022" y="2398" />
+              <mxPoint x="919" y="2401" />
               <mxPoint x="1162" y="2398" />
             </Array>
           </mxGeometry>
