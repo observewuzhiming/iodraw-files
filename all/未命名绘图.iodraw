@@ -445,7 +445,7 @@
           <mxGeometry x="883" y="2428" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-4" value="消费记录模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1071" y="2428" width="80" height="30" as="geometry" />
+          <mxGeometry x="1044" y="2427" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-5" value="分摊与结算模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1222" y="2428" width="80" height="30" as="geometry" />
