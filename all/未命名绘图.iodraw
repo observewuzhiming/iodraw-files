@@ -436,7 +436,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="oJezCXFHaI2RmHBshxiH-1" value="多人共享记账与分摊系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1191" y="2318" width="141" height="40" as="geometry" />
+          <mxGeometry x="1174" y="2320" width="141" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oJezCXFHaI2RmHBshxiH-2" value="用户管理模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="759" y="2428" width="80" height="30" as="geometry" />
