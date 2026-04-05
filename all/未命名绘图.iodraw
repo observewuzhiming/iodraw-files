@@ -419,7 +419,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="W0KdEIu053vAUCLH06mL-1" value="模&lt;div&gt;板&lt;/div&gt;&lt;div&gt;记&lt;/div&gt;&lt;div&gt;账&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="266" y="372" width="20" height="90" as="geometry" />
+          <mxGeometry x="274" y="384" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="W0KdEIu053vAUCLH06mL-2" value="明&lt;div&gt;细&lt;/div&gt;&lt;div&gt;项&lt;/div&gt;&lt;div&gt;管&lt;/div&gt;&lt;div&gt;理&lt;/div&gt;" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="190" y="380" width="20" height="90" as="geometry" />
